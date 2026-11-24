@@ -1,0 +1,17 @@
+Title: LowPoly Medieval Noble
+URL: http://sketchfab.com/3d-models/lowpoly-medieval-noble-db7a3308d7a94c15acc415c260c317bc
+Author: https://sketchfab.com/deltainstudio
+
+Vertices: 9026
+Polygons: 17830
+Animations: 1
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\DeltainStudio\04- LowPoly.Medieval.Noble\
+Download File: db7a3308d7a94c15acc415c260c317bc.fbx
+
+Textures: 3
+#1: 1efaa0216b484333a3de5a7979e7a7b2_RGB_T_Noble1.png
+#2: 7b96c58038c74b9ba8439b9f304319ae_RGB_T_Noble2.png
+#3: e6ea6b01916a43248b24d947b17538a9_RGB_T_Noble4.png

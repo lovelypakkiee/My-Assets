@@ -1,0 +1,15 @@
+Title: Free Medieval 3D People Low Poly Pack
+URL: http://sketchfab.com/3d-models/free-medieval-3d-people-low-poly-pack-de05d948aa1749e7aa4759c9946a6d6a
+Author: https://sketchfab.com/craftpix_net
+
+Vertices: 17278
+Polygons: 33541
+Animations: 0
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\craftpixnet\01- Free.Medieval.3D.People.Low.Poly.Pack\
+Download File: de05d948aa1749e7aa4759c9946a6d6a.fbx
+
+Textures: 1
+#1: d6cf9244c89a429195a25ca738e29188_RGB_people_texture_map.png

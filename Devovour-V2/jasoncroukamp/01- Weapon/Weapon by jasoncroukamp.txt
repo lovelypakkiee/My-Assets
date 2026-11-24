@@ -1,0 +1,15 @@
+Title: Weapon
+URL: http://sketchfab.com/3d-models/weapon-b655dc73d0b64d7e83a596c83345067e
+Author: https://sketchfab.com/jasoncroukamp
+
+Vertices: 5341
+Polygons: 9782
+Animations: 0
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\jasoncroukamp\01- Weapon\
+Download File: b655dc73d0b64d7e83a596c83345067e.fbx
+
+Textures: 1
+#1: 43c067db8108448792fd621d52eef444_RGB_Weapon.png

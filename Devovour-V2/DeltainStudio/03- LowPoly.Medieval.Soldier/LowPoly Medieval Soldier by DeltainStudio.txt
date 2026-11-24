@@ -1,0 +1,18 @@
+Title: LowPoly Medieval Soldier
+URL: http://sketchfab.com/3d-models/lowpoly-medieval-soldier-6d95c47edb5743ed96b6cecd014e0293
+Author: https://sketchfab.com/deltainstudio
+
+Vertices: 10206
+Polygons: 20253
+Animations: 1
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\DeltainStudio\03- LowPoly.Medieval.Soldier\
+Download File: 6d95c47edb5743ed96b6cecd014e0293.fbx
+
+Textures: 4
+#1: a215782e328c422fa5bbcf3136af0783_RGB_T_Soldier3.png
+#2: bb05d04ec3b442908ba856ffbfe16976_RGB_T_Soldier2.png
+#3: db48d659a86e4299892e0b096552a224_RGB_T_Soldier4.png
+#4: eeda309e4f884763b70c5da5a080e8c2_RGB_T_Soldier1.png

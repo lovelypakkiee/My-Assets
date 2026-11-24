@@ -1,0 +1,17 @@
+Title: Fantasy Character Pack
+URL: http://sketchfab.com/3d-models/fantasy-character-pack-06f45bba225545a78c26fc113fd75df7
+Author: https://sketchfab.com/josemiguelgarciaoliver
+
+Vertices: 1414
+Polygons: 2823
+Animations: 0
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\josemiguelgarciaoliver\01- Fantasy.Character.Pack\
+Download File: 06f45bba225545a78c26fc113fd75df7.fbx
+
+Textures: 3
+#1: 1ac275ffa0474dbe9da0621b8366b224_RGB_DwarfPalette.png
+#2: 802250e8c6e5485785c612653db314d0_RGB_WizardPalette.png
+#3: cd7947d60a0d4fa58559325aa0761fb5__BarbarianPalette.png

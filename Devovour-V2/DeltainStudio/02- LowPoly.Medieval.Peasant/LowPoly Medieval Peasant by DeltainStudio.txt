@@ -1,0 +1,18 @@
+Title: LowPoly Medieval Peasant
+URL: http://sketchfab.com/3d-models/lowpoly-medieval-peasant-c2d330c7fc5042b8a455cb9a88b36fb6
+Author: https://sketchfab.com/deltainstudio
+
+Vertices: 8834
+Polygons: 17480
+Animations: 1
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\DeltainStudio\02- LowPoly.Medieval.Peasant\
+Download File: c2d330c7fc5042b8a455cb9a88b36fb6.fbx
+
+Textures: 4
+#1: 6d29235984ea41c9af2182658214a5ad_RGB_T_Peasant5.png
+#2: 71bd51cef5a84ea59b6a8330851809b7_RGB_T_Peasant1.png
+#3: 9d450d8da83445b8b999befa203d1c37_RGB_T_Peasant2.png
+#4: bd51f1c8dc1c40999e12c5456cbfddc5_RGB_T_Peasant3.png

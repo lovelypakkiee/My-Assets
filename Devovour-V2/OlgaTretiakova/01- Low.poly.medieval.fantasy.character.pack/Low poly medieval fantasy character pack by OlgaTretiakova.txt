@@ -1,0 +1,15 @@
+Title: Low poly medieval fantasy character pack
+URL: http://sketchfab.com/3d-models/low-poly-medieval-fantasy-character-pack-794df825fd4e4e719b96941f300aeee7
+Author: https://sketchfab.com/bulochkasmyasom
+
+Vertices: 18033
+Polygons: 34700
+Animations: 0
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\OlgaTretiakova\01- Low.poly.medieval.fantasy.character.pack\
+Download File: 794df825fd4e4e719b96941f300aeee7.fbx
+
+Textures: 1
+#1: 0e642b1f1fe143a8a6d940674cefc975_RGB_CharacterSet1.png

@@ -1,0 +1,19 @@
+Title: Stylized Medieval Characters
+URL: http://sketchfab.com/3d-models/stylized-medieval-characters-cd22d82b5364445a880bd18e590ed8dd
+Author: https://sketchfab.com/wilhelmvonc
+
+Vertices: 10980
+Polygons: 21279
+Animations: 0
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\wilhelmvonc\01- Stylized.Medieval.Characters\
+Download File: cd22d82b5364445a880bd18e590ed8dd.fbx
+
+Textures: 5
+#1: 0c3ff030e9554e6e9b1b5b5c40387098_RGB_infantry_a.png
+#2: 0c4309b8fd4d4923ab8c84530cf92c38_RGB_knight_hospitaller.png
+#3: 23a293bfc3da497895ba60e311558013_RGB_knight_templar.png
+#4: 54e64375a59f42cc890e48b98ade8528_RGB_infantry_b.png
+#5: 6e4cc62e08324255bc1f65e6439d4606_RGB_archer.png

@@ -1,0 +1,25 @@
+Title: Animal Monster Collection
+URL: http://sketchfab.com/3d-models/animal-monster-collection-613973b6ef9b4a29908629c2516417d2
+Author: https://sketchfab.com/josluat91
+
+Vertices: 7991
+Polygons: 15106
+Animations: 0
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\josluat91\01- Animal.Monster.Collection\
+Download File: 613973b6ef9b4a29908629c2516417d2.fbx
+
+Textures: 11
+#1: 2ae4ce61710c43ce9e92dd03c4adb0cf_RGB_Gayal 2_Texture.png
+#2: 60fcac567e9b4d94a9ba15785ff85272_RGB_Wolf 3_Head.png
+#3: 6e1dec17488a45e68bef0c4688a90fd2_RGB_Wolf 2_Texture.png
+#4: 824061641b5c4b73a29003d56c02bd16_RGB_Deer_Texture.png
+#5: 85cbd7aa403e4b03a017df18a8a15a33_RGB_Crocodile_Texture.png
+#6: 882f500d37a94d68908efc8d00b89146_RGB_Jaguar_Texture.png
+#7: 8f209d2a20b5415dabb72110d8042969_RGB_Camel_Texture.png
+#8: b3311de8685049c78b6a166aab8dd9f9_RGB_Wolf 3_Body.png
+#9: c84dca58683148e7a9aae6479581372c_RGB_Horse_Texture.png
+#10: cb25a8fa1c444f14ac1353f80753d140_RGB_Crocodile 2_Texture.png
+#11: d4e9b49861954931879719fdc7217037_RGB_Puma_Texture.png

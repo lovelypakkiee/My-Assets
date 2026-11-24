@@ -1,0 +1,18 @@
+Title: LowPoly Medieval Character
+URL: http://sketchfab.com/3d-models/lowpoly-medieval-character-1265aa9b48d845d088e952e5d87fd0da
+Author: https://sketchfab.com/deltainstudio
+
+Vertices: 8705
+Polygons: 17254
+Animations: 1
+
+Download Date: 24-11-2026
+Download Format: FBX
+Download Path: C:\Users\Thara\Downloads\3d_Ripper_Pro_v110b\Downloads\DeltainStudio\01- LowPoly.Medieval.Character\
+Download File: 1265aa9b48d845d088e952e5d87fd0da.fbx
+
+Textures: 4
+#1: 220931e77c21491fb0a58aaeeb349319_RGB_T_Medieval2.png
+#2: 6851c9a9a7d048769828d0b2cc849e10_RGB_T_Medieval4.png
+#3: c0e90b0bba6d4469a315b7455361a244_RGB_T_Medieval1.png
+#4: ee949ac5c0e84d4bb45dab95564e9594_RGB_T_Medieval3.png
